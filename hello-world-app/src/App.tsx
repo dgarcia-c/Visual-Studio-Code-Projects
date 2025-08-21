@@ -5,7 +5,7 @@ import Other from './components/Other'
 import OneMoreTime from './components/OneMoreTime'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [] = useState(0)
 
   return (
     <>
